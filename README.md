@@ -13,7 +13,7 @@ Also, making this sort of program more presentable would be a benefit.
 Making a non-specific version (based on the AP Literature class at my school) to a grade calculator based on weighted percentages to the user's liking would also be a great move.
 
 ## Link to replit code: 
-https://repl.it/@DylanNguyen5/AP-Lit-Grade-Calculator
+https://repl.it/@DylanNguyen14/AP-Lit-Grade-Calculator
 
 ## Link to replit program:
-https://AP-Lit-Grade-Calculator.dylannguyen5.repl.run
+https://AP-Lit-Grade-Calculator.dylannguyen14.repl.run
